@@ -1,0 +1,51 @@
+h1, h2, h3, h4, h5 {
+	appearance: none;
+	font-weight: 600;
+	font-family: roboto, sans-serif;
+	line-height: 100%;
+	margin: 0px;
+}
+
+a:hover{
+	text-decoration: underline;
+	transition: 200ms;
+}
+a{
+	transition: 200ms;
+}
+
+.sph{
+	font-size: 120px;
+	color: white;
+	text-shadow: 2px 2px 4px black;
+	padding: 56px 45px;
+}
+
+h1 {
+	font-size: 32px;
+}
+h2 {
+	font-size: 24px;
+}
+h3 {
+	font-size: 20px;
+}
+h4 {
+	font-size: 16px;
+}
+h5 {
+	font-size: 14px;
+}
+
+.p24 {
+	font-size: 24px;
+}
+.p20 {
+	font-size: 20px;
+}
+.p16 {
+	font-size: 16px;
+}
+.p14 {
+	font-size: 14px;
+}
